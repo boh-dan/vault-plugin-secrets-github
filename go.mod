@@ -1,4 +1,4 @@
-module github.com/boh-dan/vault-plugin-secrets-github/github/v2
+module github.com/boh-dan/vault-plugin-secrets-github/v2
 
 go 1.22.0
 
